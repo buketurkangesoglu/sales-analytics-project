@@ -20,5 +20,5 @@ venv/
 Thumbs.db
 
 # Output folders
-/images/
-/reports/
+# /images/
+# /reports/
