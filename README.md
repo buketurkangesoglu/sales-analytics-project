@@ -26,7 +26,7 @@ Proje boyunca SQL veri tabanları oluşturuldu, Python ile veri analizi yapıld�
    - `.gitignore` ile gereksiz dosyalar yoksayıldı.  
 ### Power BI Dashboard Önizleme
 
-![Sales Dashboard Preview](images/powerbi_sales_analyst.png)
+![Sales Dashboard Preview](images/powerbı_sales_analyst.png)
 ## Kullanım
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
