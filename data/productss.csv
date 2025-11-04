@@ -1,0 +1,20 @@
+ProductID;ProductName;Category;Price;Price Category;Discounted Price
+1;Laptop;Elektronik;200000;Orta;180000
+2;Nemlendirici Tonik;Cilt Bak?m?;40000;Ucuz;36000
+3;Laptop;Elektronik;400000;Orta;360000
+4;Ofis Sandalyesi;Mobilya;200000;Orta;180000
+5;Kulakl?k;Elektronik;100000;Orta;90000
+6;Elbise;K?yafet;50000;Orta;45000
+7;Spor Ayakkab?;Ayakkab?;55000;Orta;49500
+8;Laptop;Elektronik;550000;Orta;495000
+9;Gömlek;K?yafet;30000;Ucuz;27000
+10;Laptop;Elektronik;600000;Orta;540000
+11;Sehpa;Mobilya;70000;Orta;63000
+12;Parfüm;Parfüm;65000;Orta;58500
+13;Baharat;G?da;30000;Ucuz;27000
+14;Parfüm;Parfüm;100000;Orta;90000
+15;Dumbell;Spor Gereçleri;25000;Ucuz;22500
+16;Ko?u Band?;Spor Gereçleri;125000;Orta;112500
+17;Araç ?çi Telefon Tutucu;Otomobil Gereçleri;15000;Ucuz;13500
+18;?Phone Telefon;Elektronik;1200000;Orta;1080000
+19;Tra? Aleti;Elektronik;125000;Orta;112500
